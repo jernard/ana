@@ -1,6 +1,7 @@
 use database bd_transacciones
 #esto es una prueba para git
 #nuevo intento para git
+#para nueva rama
 CREATE TABLE banco (
 ID_banco INT IDENTITY(1,1) PRIMARY KEY,
 ban_nit VARCHAR(12) NOT NULL UNIQUE, 
